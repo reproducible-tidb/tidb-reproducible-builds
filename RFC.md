@@ -17,4 +17,7 @@
 
 ## Team
 
-@nexustar @AstroProfundis
+- @nexustar 22岁，是学生。 PingCAP intern
+- @AstroProfundis
+- @YukariChiba
+- @HikawaRin
